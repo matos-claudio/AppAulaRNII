@@ -79,3 +79,4 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # AppAulaRNII
 # Created by Claudio Matos
+# Created at 08/08/2023
